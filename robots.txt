@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovozuicu.github.io/BJP/sitemap_index.txt
+Sitemap: https://ovozuicu.github.io/GIT/sitemap_index.txt
+Sitemap: https://ovozuicu.github.io/MNc/sitemap_index.txt
+Sitemap: https://ovozuicu.github.io/iaV/sitemap_index.txt
